@@ -1,0 +1,74 @@
+{
+  "heroData": {
+    "title": "Benim adım<br /><b>Ahmet Rasim</b> <span><br />Beyhan...</span>",
+    "subTitle": "<span>Full Stack Geliştirici</span> <span>Türkiye</span> merkezli",
+    "phone": "+90 552 517 57 81",
+    "email": "ahmet@agotasoft.com"
+  },
+  "aboutData": {
+    "aboutRight": {
+      "aboutText": "Laravel, .NET, React ve modern web teknolojilerinde uzmanlaşmış tutkulu bir Full Stack Geliştiriciyim. Şu anda AgotaSoft'ta Yazılım Geliştirici olarak çalışıyor, ERP sistemleri ve yüksek performanslı uygulamalar geliştirmeye odaklanıyorum. Competitive programming deneyimi ve hem backend hem de frontend geliştirmede güçlü bir temele sahip olarak, her projeye problem çözme zihniyeti getiriyorum.",
+      "contactInfo": [
+        {
+          "icon": "map",
+          "data": "Üsküdar, İstanbul, Türkiye"
+        },
+        {
+          "icon": "envelope",
+          "data": "ahmet@agotasoft.com"
+        },
+        {
+          "icon": "phone",
+          "data": "+90 552 517 57 81"
+        }
+      ]
+    }
+  },
+  "experienceData": {
+    "experience": [
+      {
+        "title": "Yazılım Geliştirici - AgotaSoft",
+        "start": "Temmuz 2024",
+        "end": "Devam Ediyor",
+        "description": [
+          "Laravel ve .NET framework'leri kullanarak ERP sistemleri geliştirme ve sürdürme",
+          "React ve modern JavaScript ile responsive web uygulamaları oluşturma",
+          "Veritabanı performansını optimize etme ve verimli veri yapıları uygulama",
+          "Yüksek kaliteli yazılım çözümleri sunmak için çapraz fonksiyonel ekiplerle işbirliği"
+        ]
+      },
+      {
+        "title": "Yazılım Stajyeri - Acunmedya Academy & MyStaff",
+        "start": "Ocak 2025",
+        "end": "Mayıs 2025",
+        "description": [
+          "Web geliştirme ve yazılım geliştirme uygulamalarında uygulamalı deneyim kazandım",
+          "Modern geliştirme framework'leri kullanarak gerçek dünya projelerinde çalıştım",
+          "Çevik geliştirme metodolojileri ve işbirlikçi kodlama uygulamaları öğrendim"
+        ]
+      },
+      {
+        "title": "Yazılım Stajyeri - Teklas",
+        "start": "Haziran 2025",
+        "end": "Ağustos 2025",
+        "description": [
+          "Profesyonel ortamda yazılım geliştirme projelerine katkıda bulundum",
+          "Backend geliştirme ve veritabanı yönetiminde becerilerimi geliştirdim",
+          "Kod incelemeleri ve kalite güvence süreçlerine katıldım"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "title": "Bilgisayar Programcılığı - Biruni Üniversitesi",
+        "start": "2024",
+        "end": "2026",
+        "description": [
+          "Mevcut GPA: 3.10/4.00",
+          "Yazılım mühendisliği ilkeleri ve modern programlama dilleri üzerine odaklandım",
+          "Kodlama yarışmaları ve teknik projelerde aktif katılım"
+        ]
+      }
+    ]
+  }
+}
