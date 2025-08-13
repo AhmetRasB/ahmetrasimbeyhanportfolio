@@ -18,6 +18,14 @@ function useLanguage(): [Lang, (l: Lang) => void] {
 export const App: React.FC = () => {
   const [lang, setLang] = useLanguage();
   const data = lang === 'tr' ? tr : en;
+  const siteLinks = [
+    { label: 'LinkedIn', href: 'https://www.linkedin.com/in/ahmetrasimbeyhan/' },
+    { label: 'Google Developers', href: 'https://developers.google.com/profile/u/ahmetrasimbeyhan' },
+    { label: 'Stack Overflow', href: 'https://stackoverflow.com/users/20874205/agota' },
+    { label: 'GitHub', href: 'https://github.com/AhmetRasB' },
+    { label: 'Medium', href: 'https://medium.com/' },
+    { label: 'AgotaSoft', href: 'https://agotasoft.com/' }
+  ];
 
   return (
     <div className="container">
@@ -105,8 +113,17 @@ export const App: React.FC = () => {
           ))}
         </div>
       </section>
-
-
+      {/* Links Section */}
+      <section className="section contact-section">
+        <h2 className="section-title">{lang === 'tr' ? 'Bağlantılar' : 'Links'}</h2>
+        <div className="contact-links">
+          {siteLinks.map(link => (
+            <a key={link.href} href={link.href} target="_blank" rel="noopener noreferrer" className="contact-link">
+              {link.label}
+            </a>
+          ))}
+        </div>
+      </section>
 
       {/* Contact Section */}
       <section className="section contact-section">
