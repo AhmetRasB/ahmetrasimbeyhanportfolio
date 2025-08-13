@@ -23,7 +23,7 @@ export const App: React.FC = () => {
     { label: 'Google Developers', href: 'https://developers.google.com/profile/u/ahmetrasimbeyhan' },
     { label: 'Stack Overflow', href: 'https://stackoverflow.com/users/20874205/agota' },
     { label: 'GitHub', href: 'https://github.com/AhmetRasB' },
-    { label: 'Medium', href: 'https://medium.com/' },
+    { label: 'Medium', href: 'https://medium.com/@ahmetrasimbayhan' },
     { label: 'AgotaSoft', href: 'https://agotasoft.com/' }
   ];
 
