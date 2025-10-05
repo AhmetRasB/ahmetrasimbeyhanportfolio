@@ -4,8 +4,8 @@
     "title": "Full Stack Geliştirici",
     "bio": "Teknoloji yolculuğuma erken yaşta başlayarak, sürekli gelişen teknoloji alanında deneyim kazandım. Profesyonel kariyerim full-stack geliştirme üzerine odaklanıyor; Laravel, .NET, React ve modern web teknolojilerinde becerilerimi geliştiriyorum. Verimli çözümler yaratmaya ve anlamlı projelere katkıda bulunmaya tutkuluyum.",
     "location": "İstanbul, Türkiye",
-    "email": "ahmet@agotasoft.com",
-    "phone": "+90 552 517 57 81"
+    "email": "ahmet@agotasoft.com"
+    
   },
   "skills": [
     "Laravel",
@@ -17,14 +17,16 @@
     "MySQL",
     "PostgreSQL",
     "Git",
-    "RESTful APIs"
+    "RESTful APIs",
+    "Winforms",
+    "Qliksense"
   ],
   "experience": [
     {
       "company": "AgotaSoft",
-      "position": "Yazılım Geliştirici",
+      "position": "Kurucu & Yönetici",
       "period": "Tem 2024 - Devam Ediyor",
-      "description": "Laravel ve .NET framework'leri kullanarak ERP sistemleri geliştirip sürdürüyorum, React ve modern JavaScript ile responsive web uygulamaları oluşturuyorum. Veritabanı performansını optimize etmeye ve verimli veri yapıları uygulamaya odaklanırken çapraz fonksiyonel ekiplerle işbirliği yapıyorum."
+      "description": "2023 Yılından beri Microsoft For Startups programındayız ve AI destekli ERP geliştirmesi yapıyoruz, .NET teknolojilerini kullandığımız bu projemizde ekibimizde 10+ kişi yer almakta. Tübitak BIGG kapsamında birden çok teknoparkta 2. aşamaya geçme hakkını kazandık."
     },
     {
       "company": "Acunmedya Academy & MyStaff",
@@ -36,7 +38,13 @@
       "company": "Teklas",
       "position": "Yazılım Stajyeri",
       "period": "Haz 2025 - Ağu 2025",
-      "description": "Profesyonel ortamda yazılım geliştirme projelerine katkıda bulundum, backend geliştirme ve veritabanı yönetiminde becerilerimi geliştirdim, kod incelemeleri ve kalite güvence süreçlerine katıldım."
+      "description": "Şirketin hali hazırda olan ERP sine benzer yapıda bir ERP geliştirdim, stajımda gösterdiğim üstün başarı sonucunda iş teklifi aldım."
+    },
+    {
+      "company": "Teklas",
+      "position": "Yazılım Geliştirici",
+      "period": "Ağu 2025 - Devam Ediyor",
+      "description": "Şirkette hem Masaüstü hem Web ERP geliştirme süreçlerinde görev alıyorum, bi yandan Qliksense ile C-level BI analizleri yapıyorum."
     }
   ],
   "education": [
@@ -44,7 +52,7 @@
       "institution": "Biruni Üniversitesi",
       "degree": "Bilgisayar Programcılığı",
       "period": "2024 - 2026",
-      "details": "Mevcut GPA: 3.10/4.00. Yazılım geliştirme ilkeleri ve modern programlama dilleri üzerine odaklandım, kodlama yarışmaları ve teknik projelerde aktif katılım gösterdim."
+      "details": "Mevcut GPA: 3.10/4.00. Yazılım geliştirme ve veritabanı yönetimi üzerine odaklandım."
     }
   ]
 }

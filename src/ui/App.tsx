@@ -138,9 +138,6 @@ export const App: React.FC = () => {
           <a href={`mailto:${data.personal.email}`} className="contact-link">
             {data.personal.email}
           </a>
-          <a href={`tel:${data.personal.phone}`} className="contact-link">
-            {data.personal.phone}
-          </a>
         </div>
       </section>
     </div>

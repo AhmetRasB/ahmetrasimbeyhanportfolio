@@ -2,10 +2,9 @@ export const en = {
   personal: {
     name: "Ahmet Rasim Beyhan",
     title: "Full Stack Developer",
-    bio: "Embarking on my technological journey at an early age, I have amassed experience in the ever-evolving realm of technology. My professional career focuses on full-stack development, where I hone my skills in Laravel, .NET, React, and modern web technologies. I am passionate about creating efficient solutions and contributing to meaningful projects.",
+    bio: "I am an 18-year-old software developer passionate about data analytics, full-stack development, and cutting-edge technologies. Currently, I work as a Junior Software Developer at Teklas, while also building my own startup, AgotaSoft, where we develop ERP solutions.\n\nBacked by 120K$+ investment from Microsoft, I am driving my startup forward while pursuing my Computer Programming degree (2nd year). My focus is on delivering scalable, efficient, and user-friendly solutions using modern technologies.\n\nAlways eager to learn, experiment, and contribute to impactful projects.",
     location: "Istanbul, Turkey",
     email: "ahmet@agotasoft.com",
-    phone: "+90 552 517 57 81"
   },
   skills: [
     "Laravel",
@@ -17,26 +16,34 @@ export const en = {
     "MySQL",
     "PostgreSQL",
     "Git",
-    "RESTful APIs"
+    "RESTful APIs",
+    "Winforms",
+    "Qliksense"
   ],
   experience: [
     {
       company: "AgotaSoft",
-      position: "Software Developer",
+      position: "Founder & Manager",
       period: "Jul 2024 - Present",
-      description: "I develop and maintain ERP systems using Laravel and .NET frameworks, creating responsive web applications with React and modern JavaScript. I focus on optimizing database performance and implementing efficient data structures while collaborating with cross-functional teams."
+      description: "We have been part of the Microsoft for Startups program since 2023, building an AI-powered ERP using .NET technologies. Our team consists of 10+ members. Within the TÜBİTAK BIGG program, we earned the right to advance to phase 2 in multiple technoparks."
     },
     {
       company: "Acunmedya Academy & MyStaff",
       position: "Software Intern",
       period: "Jan 2025 - May 2025",
-      description: "Gained hands-on experience in web and software development practices, working on real-world projects using modern development frameworks and learning agile development methodologies."
+      description: "Gained hands-on experience in web and software development, worked on real-world projects using modern frameworks, and learned agile development methodologies."
     },
     {
       company: "Teklas",
       position: "Software Intern",
       period: "Jun 2025 - Aug 2025",
-      description: "Contributed to software development projects in a professional environment, improving skills in backend development and database management while participating in code reviews and quality assurance processes."
+      description: "Developed an ERP similar to the company’s existing system. As a result of outstanding performance during my internship, I received a job offer."
+    },
+    {
+      company: "Teklas",
+      position: "Software Developer",
+      period: "Aug 2025 - Present",
+      description: "I take part in both Desktop and Web ERP development processes while also performing C-level BI analyses with Qliksense."
     }
   ],
   education: [
