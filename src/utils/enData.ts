@@ -22,6 +22,18 @@ export const en = {
   ],
   experience: [
     {
+      company: "Teklas",
+      position: "Software Developer",
+      period: "Aug 2025 - Present",
+      description: "I take part in both Desktop and Web ERP development processes while also performing C-level BI analyses with Qliksense."
+    },
+    {
+      company: "Teklas",
+      position: "Software Intern",
+      period: "Jun 2025 - Aug 2025",
+      description: "Developed an ERP similar to the company’s existing system. As a result of outstanding performance during my internship, I received a job offer."
+    },
+    {
       company: "AgotaSoft",
       position: "Founder & Manager",
       period: "Jul 2024 - Present",
@@ -32,19 +44,8 @@ export const en = {
       position: "Software Intern",
       period: "Jan 2025 - May 2025",
       description: "Gained hands-on experience in web and software development, worked on real-world projects using modern frameworks, and learned agile development methodologies."
-    },
-    {
-      company: "Teklas",
-      position: "Software Intern",
-      period: "Jun 2025 - Aug 2025",
-      description: "Developed an ERP similar to the company’s existing system. As a result of outstanding performance during my internship, I received a job offer."
-    },
-    {
-      company: "Teklas",
-      position: "Software Developer",
-      period: "Aug 2025 - Present",
-      description: "I take part in both Desktop and Web ERP development processes while also performing C-level BI analyses with Qliksense."
     }
+   
   ],
   education: [
     {

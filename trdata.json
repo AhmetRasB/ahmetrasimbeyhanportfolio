@@ -2,7 +2,7 @@
   "personal": {
     "name": "Ahmet Rasim Beyhan",
     "title": "Full Stack Geliştirici",
-    "bio": "Teknoloji yolculuğuma erken yaşta başlayarak, sürekli gelişen teknoloji alanında deneyim kazandım. Profesyonel kariyerim full-stack geliştirme üzerine odaklanıyor; Laravel, .NET, React ve modern web teknolojilerinde becerilerimi geliştiriyorum. Verimli çözümler yaratmaya ve anlamlı projelere katkıda bulunmaya tutkuluyum.",
+    "bio": "Veri analitiği, full-stack geliştirme ve en yeni teknolojilere tutkuyla bağlı 18 yaşında bir yazılım geliştiricisiyim. Şu anda Teklas'ta Junior Yazılım Geliştirici olarak çalışıyorum; bir yandan da ERP çözümleri geliştirdiğimiz kendi girişimim AgotaSoft'u büyütüyorum.\n\nMicrosoft'tan 120K$+ yatırım desteğiyle girişimimi ilerletirken, aynı zamanda Bilgisayar Programcılığı (2. sınıf) eğitimime devam ediyorum. Odağım, modern teknolojilerle ölçeklenebilir, verimli ve kullanıcı dostu çözümler sunmak.\n\nHer zaman öğrenmeye, denemeye ve etkili projelere katkı sağlamaya hevesliyim.",
     "location": "İstanbul, Türkiye",
     "email": "ahmet@agotasoft.com"
     
@@ -23,6 +23,18 @@
   ],
   "experience": [
     {
+      "company": "Teklas",
+      "position": "Yazılım Geliştirici",
+      "period": "Ağu 2025 - Devam Ediyor",
+      "description": "Şirkette hem Masaüstü hem Web ERP geliştirme süreçlerinde görev alıyorum, bi yandan Qliksense ile C-level BI analizleri yapıyorum."
+    },
+    {
+      "company": "Teklas",
+      "position": "Yazılım Stajyeri",
+      "period": "Haz 2025 - Ağu 2025",
+      "description": "Şirketin hali hazırda olan ERP sine benzer yapıda bir ERP geliştirdim, stajımda gösterdiğim üstün başarı sonucunda iş teklifi aldım."
+    },
+    {
       "company": "AgotaSoft",
       "position": "Kurucu & Yönetici",
       "period": "Tem 2024 - Devam Ediyor",
@@ -33,19 +45,10 @@
       "position": "Yazılım Stajyeri",
       "period": "Oca 2025 - May 2025",
       "description": "Web geliştirme ve yazılım geliştirme uygulamalarında uygulamalı deneyim kazandım, modern geliştirme framework'leri kullanarak gerçek dünya projelerinde çalıştım ve çevik geliştirme metodolojileri öğrendim."
-    },
-    {
-      "company": "Teklas",
-      "position": "Yazılım Stajyeri",
-      "period": "Haz 2025 - Ağu 2025",
-      "description": "Şirketin hali hazırda olan ERP sine benzer yapıda bir ERP geliştirdim, stajımda gösterdiğim üstün başarı sonucunda iş teklifi aldım."
-    },
-    {
-      "company": "Teklas",
-      "position": "Yazılım Geliştirici",
-      "period": "Ağu 2025 - Devam Ediyor",
-      "description": "Şirkette hem Masaüstü hem Web ERP geliştirme süreçlerinde görev alıyorum, bi yandan Qliksense ile C-level BI analizleri yapıyorum."
     }
+   
+   
+   
   ],
   "education": [
     {
